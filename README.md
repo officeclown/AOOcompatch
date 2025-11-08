@@ -2,9 +2,8 @@
 ###### https://discord.gg/arkhamworkshop
 Arkham Origins Online: Extended Cut is an extensive mod for the forgotten online mode of Arkham Origins that intends to rebalance, restore content, and extend the game, turning it into the most enjoyable experience it can be and serving as an "evergreen" experience for Arkham players.
 ## Installation
-**Requires Arkham Origins and the Season Pass to be purchased on Steam, and [Arkham Revived Self Hosted](https://github.com/kiwifruitdev/arkhamrevivedselfhosted)*
-
-**This repository hosts pre-release, in-development versions of the game - check the mod page (eventually) for the latest **stable** version*
+> [!IMPORTANT]
+>Requires Arkham Origins and the Season Pass to be purchased on Steam, and [Arkham Revived Self Hosted](https://github.com/kiwifruitdev/arkhamrevivedselfhosted)
 
 - Download this repository by pressing the green `Code` button in the top right, and selecting `Download as ZIP`
 
