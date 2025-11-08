@@ -42,7 +42,7 @@ Arkham Origins Online: Extended Cut is an extensive mod for the forgotten online
   - `[GAMEMODE]` can be `gangland`, `hunterhunted`, `bethebatman`, or `bethevillain`
 
 - To join, press `F10` and type `start 127.0.0.1`
-  - This can be input before the host's game is up to join as soon as possible.
+  - This can be input before the host's game is up to join as soon as possible. It can also be input well after to join or rejoin mid-game.
 
 ## Useful Commands
 #### Host Only
