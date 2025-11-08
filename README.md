@@ -45,6 +45,17 @@ Arkham Origins Online: Extended Cut is an extensive mod for the forgotten online
 - To join, press `F10` and type `start 127.0.0.1`
   - This can be input before the host's game is up to join as soon as possible.
 
+## Useful Commands
+#### Host Only
+`servertravel [MAP]?game=bmgame.gdgi[GAMEMODE]` - Loads a new game and brings everyone currently connected with you. Players stay on the same teams. Also a convenient way to restart a match with teams situated. Do not add `?listen`!
+
+`playforever` - Disables the match timer and activates supervillain doors.
+
+#### Anyone
+`changeteam [TEAM]` - Change to `joker`, `bane`, or `heroes`. Unfortunately, it kills you and makes you wait for a respawn, losing a reinforcement for the team you're switching from. It's recommended to change teams and then have the host restart the match.
+
+`setcharindex [NUM]` - Change characters instantly. `0` = Batman, `1` = Robin, `2` = Joker, `3` = Joker Thug, `4` = Bane, `5` = Bane Thug
+
 ## TODO / Known Issues
 *Contributions welcome!*
 
