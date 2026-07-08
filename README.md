@@ -1,5 +1,4 @@
 # Arkham Origins Online: Extended Cut
-[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/) [![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/) [![Extended Cut Discord](https://badgen.net/discord/members/csharp)](https://discord.gg/xe4exTyGc7)
 ###### https://discord.gg/arkhamworkshop
 Arkham Origins Online: Extended Cut is an extensive mod for the forgotten online mode of Arkham Origins that intends to rebalance, restore content, and extend the game, turning it into the most enjoyable experience it can be according to it's original blueprint and serving as an "evergreen" experience for Arkham players.
 ## Installation
