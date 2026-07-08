@@ -1,6 +1,16 @@
 # Arkham Origins Online: Extended Cut
-###### https://discord.gg/arkhamworkshop
-Arkham Origins Online: Extended Cut is an extensive mod for the forgotten online mode of Arkham Origins that intends to rebalance, restore content, and extend the game, turning it into the most enjoyable experience it can be according to it's original blueprint and serving as an "evergreen" experience for Arkham players.
+![Discord](https://img.shields.io/discord/1517278765338857703?style=flat&logo=discord&logoColor=%2395e9fb&label=AOO%3A%20Extended%20Cut%20Discord&color=%2395e9fb) ![GitHub repo size](https://img.shields.io/github/repo-size/officeclown/aoocompatch) 
+
+
+Arkham Origins Online: Extended Cut is an extensive mod for the forgotten online mode of Arkham Origins that intends to rebalance, restore content, and extend the game, turning it into the most enjoyable experience it can be according to it's original blueprint and serving as an evergreen experience for Arkham players.
+
+## Notable Changes
+ - Robin has been overhauled to give him a completely new moveset, featuring his dual escrima sticks, based on original concept art and his identity as Dick Grayson.
+ - Thug gadgets and gameplay has been overhauled to promote less stalematey or repetetive, riskless gameplay (no more blimp dominance, less rolling, heroes are invisible on thug enhanced vision until they're in close range)
+ - Game parameters have been edited on certain maps to better suit their layout
+ - Cosmetics have been added and restored from beta versions
+ - Many more small rebalances and additions already implemented, and many more to come
+
 ## Installation
 > [!IMPORTANT]
 >Requires Arkham Origins and the Season Pass to be purchased on Steam, and [Arkham Revived Self Hosted](https://github.com/kiwifruitdev/arkhamrevivedselfhosted)
@@ -42,14 +52,14 @@ Arkham Origins Online: Extended Cut is an extensive mod for the forgotten online
   - `0`= Jokers, `1` = Banes, `2` = Heroes
 
 ## Useful In-Game Commands
-#### Host Only
+### Host Only
 `servertravel [MAP]?game=bmgame.gdgi[GAMEMODE]` - Loads a new game and brings everyone currently connected with you. Players stay on the same teams. Also a convenient way to restart a match with teams situated. Do not add `?listen`!
 
 `playforever` - Disables the match timer and activates supervillain doors.
 
 `kickplayer [0-7]` - Kicks a player from your lobby. The number corresponds to the order of players on your screen, with you (the host) starting at 0. This command is generally useless as the kicked player can just join back, even interupting the start countdown. If you're having problems with belligerent players, host via LAN emulation instead.
 
-#### Anyone
+### Anyone
 
 `changeteam [TEAM]` - Change to `joker`, `bane`, or `heroes`. Unfortunately, it kills you and makes you wait for a respawn, losing a reinforcement for the team you're switching from. It's recommended to change teams and then have the host restart the match.
 
